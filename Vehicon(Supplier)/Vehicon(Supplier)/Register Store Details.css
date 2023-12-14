@@ -1,0 +1,182 @@
+.register-store {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .register-store .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+  }
+  
+  .register-store .overlap {
+    position: relative;
+    width: 1581px;
+    height: 1068px;
+    top: -44px;
+    left: -88px;
+  }
+  
+  .register-store .rectangle {
+    width: 1068px;
+    height: 1560px;
+    top: -246px;
+    left: 267px;
+    background-color: #ffffff80;
+    position: absolute;
+    border-radius: 30px;
+    transform: rotate(-90deg);
+  }
+  
+  .register-store .untitled-design {
+    position: absolute;
+    width: 271px;
+    height: 130px;
+    top: 187px;
+    left: 672px;
+    object-fit: cover;
+  }
+  
+  .register-store .group {
+    position: absolute;
+    width: 159px;
+    height: 175px;
+    top: 501px;
+    left: 405px;
+  }
+  
+  .register-store .vector {
+    position: absolute;
+    width: 48px;
+    height: 49px;
+    top: 0;
+    left: 55px;
+  }
+  
+  .register-store .img {
+    position: absolute;
+    width: 87px;
+    height: 39px;
+    top: 61px;
+    left: 35px;
+  }
+  
+  .register-store .text-wrapper {
+    position: absolute;
+    width: 157px;
+    top: 128px;
+    left: 0;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .register-store .div {
+    width: 89px;
+    height: 1570px;
+    top: -707px;
+    left: 741px;
+    background: linear-gradient(180deg, rgb(254, 193, 99) 0%, rgb(222, 67, 19) 100%);
+    position: absolute;
+    border-radius: 30px;
+    transform: rotate(-90deg);
+  }
+  
+  .register-store .group-2 {
+    position: absolute;
+    width: 1364px;
+    height: 48px;
+    top: 67px;
+    left: 129px;
+  }
+  
+  .register-store .text-wrapper-2 {
+    position: absolute;
+    width: 491px;
+    top: 4px;
+    left: 44px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .register-store .icon-envelope {
+    position: absolute;
+    width: 33px;
+    height: 27px;
+    top: 6px;
+    left: -2px;
+  }
+  
+  .register-store .overlap-group {
+    position: absolute;
+    width: 301px;
+    height: 48px;
+    top: 0;
+    left: 1015px;
+  }
+  
+  .register-store .text-wrapper-3 {
+    position: absolute;
+    width: 301px;
+    top: 4px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .register-store .emoji-instagram {
+    position: absolute;
+    width: 29px;
+    height: 27px;
+    top: 2px;
+    left: 249px;
+  }
+  
+  .register-store .icon-facebook-icon {
+    position: absolute;
+    width: 30px;
+    height: 31px;
+    top: 0;
+    left: 193px;
+  }
+  
+  .register-store .icon-call {
+    position: absolute;
+    width: 26px;
+    height: 25px;
+    top: 3px;
+    left: 966px;
+  }
+  
+  .register-store .icon-twitter {
+    position: absolute;
+    width: 29px;
+    height: 24px;
+    top: 3px;
+    left: 1333px;
+  }
+  
+  .register-store .element {
+    position: absolute;
+    width: 1304px;
+    height: 735px;
+    top: 333px;
+    left: 149px;
+  }
+  

@@ -1,0 +1,435 @@
+.list-of-trip {
+    background-color: #fff6e8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .list-of-trip .overlap-wrapper {
+    background-color: #fff6e8;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+  }
+  
+  .list-of-trip .overlap {
+    position: relative;
+    width: 1570px;
+    height: 982px;
+    top: -11px;
+    left: -88px;
+  }
+  
+  .list-of-trip .rectangle {
+    position: absolute;
+    width: 89px;
+    height: 1570px;
+    top: -741px;
+    left: 741px;
+    border-radius: 30px;
+    transform: rotate(-90deg);
+    background: linear-gradient(180deg, rgb(254, 193, 99) 0%, rgb(222, 67, 19) 100%);
+  }
+  
+  .list-of-trip .group {
+    position: absolute;
+    width: 1364px;
+    height: 48px;
+    top: 34px;
+    left: 130px;
+  }
+  
+  .list-of-trip .text-wrapper {
+    position: absolute;
+    width: 491px;
+    top: 4px;
+    left: 44px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .icon-envelope {
+    position: absolute;
+    width: 33px;
+    height: 27px;
+    top: 6px;
+    left: -2px;
+  }
+  
+  .list-of-trip .overlap-group {
+    position: absolute;
+    width: 301px;
+    height: 48px;
+    top: 0;
+    left: 1015px;
+  }
+  
+  .list-of-trip .div {
+    position: absolute;
+    width: 301px;
+    top: 4px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .emoji-instagram {
+    position: absolute;
+    width: 29px;
+    height: 27px;
+    top: 2px;
+    left: 249px;
+  }
+  
+  .list-of-trip .icon-facebook-icon {
+    position: absolute;
+    width: 30px;
+    height: 31px;
+    top: 0;
+    left: 193px;
+  }
+  
+  .list-of-trip .icon-call {
+    position: absolute;
+    width: 26px;
+    height: 25px;
+    top: 3px;
+    left: 966px;
+  }
+  
+  .list-of-trip .icon-twitter {
+    position: absolute;
+    width: 29px;
+    height: 24px;
+    top: 3px;
+    left: 1333px;
+  }
+  
+  .list-of-trip .overlap-group-wrapper {
+    position: absolute;
+    width: 692px;
+    height: 28px;
+    top: 133px;
+    left: 175px;
+  }
+  
+  .list-of-trip .overlap-2 {
+    position: relative;
+    width: 696px;
+    height: 28px;
+  }
+  
+  .list-of-trip .text-wrapper-2 {
+    position: absolute;
+    width: 75px;
+    top: 0;
+    left: 310px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #0d0d0b;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .list-of-trip .text-wrapper-3 {
+    position: absolute;
+    width: 75px;
+    top: 0;
+    left: 384px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #0d0d0b;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .list-of-trip .group-2 {
+    position: absolute;
+    width: 696px;
+    height: 28px;
+    top: 0;
+    left: 0;
+  }
+  
+  .list-of-trip .overlap-group-2 {
+    position: absolute;
+    width: 418px;
+    height: 28px;
+    top: 0;
+    left: 0;
+  }
+  
+  .list-of-trip .text-wrapper-4 {
+    width: 105px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    color: #000000;
+    position: absolute;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .list-of-trip .text-wrapper-5 {
+    position: absolute;
+    width: 208px;
+    top: 0;
+    left: 70px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #de4313;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .list-of-trip .text-wrapper-6 {
+    position: absolute;
+    width: 208px;
+    top: 0;
+    left: 210px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #0d0d0b;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .list-of-trip .text-wrapper-7 {
+    position: absolute;
+    width: 208px;
+    top: 0;
+    left: 480px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #0d0d0b;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .list-of-trip .img {
+    position: absolute;
+    width: 1299px;
+    height: 630px;
+    top: 352px;
+    left: 147px;
+  }
+  
+  .list-of-trip .rectangle-2 {
+    position: absolute;
+    width: 49px;
+    height: 710px;
+    top: -97px;
+    left: 505px;
+    background-color: #ffedd2;
+    border-radius: 20px;
+    transform: rotate(-90deg);
+  }
+  
+  .list-of-trip .rectangle-3 {
+    position: absolute;
+    width: 37px;
+    height: 205px;
+    top: 155px;
+    left: 739px;
+    border-radius: 20px;
+    transform: rotate(-90deg);
+    background: linear-gradient(180deg, rgb(254, 193, 99) 0%, rgb(222, 67, 19) 100%);
+  }
+  
+  .list-of-trip .text-wrapper-8 {
+    position: absolute;
+    width: 269px;
+    top: 248px;
+    left: 151px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #de4313;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .text-wrapper-9 {
+    position: absolute;
+    width: 269px;
+    top: 246px;
+    left: 388px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #de4313;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .text-wrapper-10 {
+    position: absolute;
+    width: 269px;
+    top: 248px;
+    left: 622px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .image {
+    width: 356px;
+    height: 221px;
+    top: 154px;
+    left: 1090px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .list-of-trip .text-wrapper-11 {
+    width: 115px;
+    top: 374px;
+    left: 1341px;
+    font-family: "DM Sans-Regular", Helvetica;
+    color: #de4313;
+    position: absolute;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .list-of-trip .image-2 {
+    width: 1084px;
+    height: 461px;
+    top: 463px;
+    left: 228px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .list-of-trip .rectangle-4 {
+    position: absolute;
+    width: 42px;
+    height: 1196px;
+    top: -173px;
+    left: 773px;
+    border-radius: 6px;
+    transform: rotate(-90deg);
+    background: linear-gradient(180deg, rgb(254, 193, 99) 0%, rgb(222, 67, 19) 100%);
+  }
+  
+  .list-of-trip .text-wrapper-12 {
+    position: absolute;
+    width: 96px;
+    top: 414px;
+    left: 252px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .text-wrapper-13 {
+    width: 96px;
+    left: 582px;
+    position: absolute;
+    top: 415px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .text-wrapper-14 {
+    position: absolute;
+    width: 96px;
+    top: 414px;
+    left: 445px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .text-wrapper-15 {
+    width: 120px;
+    left: 736px;
+    position: absolute;
+    top: 415px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .text-wrapper-16 {
+    position: absolute;
+    width: 175px;
+    top: 415px;
+    left: 885px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .text-wrapper-17 {
+    position: absolute;
+    width: 175px;
+    top: 414px;
+    left: 1117px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .list-of-trip .text-wrapper-18 {
+    position: absolute;
+    width: 175px;
+    top: 414px;
+    left: 1232px;
+    font-family: "DM Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }

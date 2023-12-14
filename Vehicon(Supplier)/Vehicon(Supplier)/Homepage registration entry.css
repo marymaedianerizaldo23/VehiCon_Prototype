@@ -1,0 +1,179 @@
+.homepage {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .homepage .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+  }
+  
+  .homepage .overlap {
+    position: relative;
+    width: 1570px;
+    height: 1044px;
+    top: -20px;
+    left: -42px;
+  }
+  
+  .homepage .overlap-group {
+    position: absolute;
+    width: 1570px;
+    height: 1044px;
+    top: 0;
+    left: 0;
+  }
+  
+  .homepage .vehicon-removebg {
+    position: absolute;
+    width: 469px;
+    height: 262px;
+    top: 87px;
+    left: 42px;
+    object-fit: cover;
+  }
+  
+  .homepage .rectangle {
+    position: absolute;
+    width: 140px;
+    height: 1570px;
+    top: -715px;
+    left: 715px;
+    border-radius: 30px;
+    transform: rotate(-90deg);
+    background: linear-gradient(180deg, rgb(254, 193, 99) 0%, rgb(222, 67, 19) 100%);
+  }
+  
+  .homepage .untitled-design {
+    position: absolute;
+    width: 1440px;
+    height: 939px;
+    top: 105px;
+    left: 42px;
+    object-fit: cover;
+  }
+  
+  .homepage .img {
+    position: absolute;
+    width: 1440px;
+    height: 939px;
+    top: 105px;
+    left: 42px;
+  }
+  
+  .homepage .text-wrapper {
+    position: absolute;
+    width: 705px;
+    top: 490px;
+    left: 131px;
+    font-family: "Days One-Regular", Helvetica;
+    font-weight: 400;
+    color: #0d0d0b;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .homepage .component {
+    position: absolute;
+    width: 336px;
+    height: 102px;
+    top: 828px;
+    left: 102px;
+  }
+  
+  .homepage .div {
+    position: relative;
+    height: 102px;
+  }
+  
+  .homepage .rectangle-2 {
+    position: absolute;
+    width: 278px;
+    height: 102px;
+    top: 0;
+    left: 29px;
+    background-color: #fec163;
+    border-radius: 28px;
+  }
+  
+  .homepage .text-wrapper-2 {
+    position: absolute;
+    width: 336px;
+    top: 29px;
+    left: 0;
+    font-family: "Days One-Regular", Helvetica;
+    font-weight: 400;
+    color: #0d0d0b;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .homepage .untitled-design-2 {
+    position: absolute;
+    width: 387px;
+    height: 194px;
+    top: 318px;
+    left: 77px;
+    object-fit: cover;
+  }
+  
+  .homepage .text-wrapper-3 {
+    width: 88px;
+    top: 54px;
+    left: 951px;
+    position: absolute;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .homepage .text-wrapper-4 {
+    position: absolute;
+    width: 107px;
+    top: 54px;
+    left: 1066px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .homepage .text-wrapper-5 {
+    width: 136px;
+    top: 54px;
+    left: 1183px;
+    position: absolute;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .homepage .text-wrapper-6 {
+    width: 136px;
+    top: 53px;
+    left: 1329px;
+    position: absolute;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
